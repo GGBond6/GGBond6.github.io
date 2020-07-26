@@ -1,10 +1,9 @@
 body{
     background-image:url(https://cdn.jsdelivr.net/gh/GGBond6/GGBond6.github.io/phonewebimages/background.png);
-    background-size: cover ;
+    background-size: contain ;
     background-attachment: fixed;
     background-repeat:no-repeat;
     background-position: center;
-    width: 90%!important; padding: 0px!important; margin:0px!important; min-width:350px!important;
 }
 /*知乎*/
 #czh {
