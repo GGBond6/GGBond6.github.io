@@ -1,0 +1,202 @@
+body{
+    background-image:url(../computerwebimages/background.png);
+    background-size: cover ;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-position: center;
+    width: 90%!important; padding: 0px!important; margin:0px!important; min-width:350px!important;
+}
+/*知乎*/
+#czh {
+    position: absolute;
+    left: 1020px;
+    top: 390px;
+}
+#pzh{
+    position: absolute;
+    left: 160px;
+    top: 184px;
+    display: none;
+}
+/*贴吧*/
+#ctb {
+    position: absolute;
+    left: 732px;
+    top: 555px;
+}
+#ptb{
+    osition: absolute;
+    left: 200px;
+    top: 277px;
+    display: none;
+}
+/*头条*/
+#ctt{
+    position: absolute;
+    left: 1120px;
+    top: 555px;
+}
+#ptt{
+    osition: absolute;
+    left: 50px;
+    top: 286px;
+    display: none;
+}
+/*孔夫子*/
+#ckfz{
+    position: absolute;
+    left: 1300px;
+    top: 555px;
+}
+#pkfz{
+    osition: absolute;
+    left: 271px;
+    top: 273px;
+    display: none;
+}
+/*B站*/
+#cb{
+    position: absolute;
+    left: 930px;
+    top: 555px;
+}
+#pb{
+    osition: absolute;
+    left: 130px;
+    top: 273px;
+    display: none;
+}
+/*QQ群*/
+#cqq{
+    position: absolute;
+    left: 1250px;
+    top: 30px;
+}
+#pqq{
+    osition: absolute;
+    left: 203px;
+    top: 432px;
+    display: none;
+}
+/*微博*/
+#cwb{
+    position: absolute;
+    left: 820px;
+    top: 390px;
+
+}
+#pwb{
+    osition: absolute;
+    left: 88px;
+    top: 185px;
+    display: none;
+}
+/*网易云*/
+#cwyy{
+    position: absolute;
+    left: 1225px;
+    top: 390px;
+
+}
+#pwyy{
+    osition: absolute;
+    left: 227px;
+    top: 180px;
+    display: none;
+}
+/*微信*/
+#cwx{
+    position: absolute;
+    left: 630px;
+    top: 390px;
+
+}
+#pwx{
+    osition: absolute;
+    left: 22px;
+    top: 184px;
+    display: none;
+}
+/*粉色刷痕*/
+#cpink{
+    position: absolute;
+    left: 780px;
+    top: 320px;
+
+}
+#ppink{
+    osition: absolute;
+    left: 18px;
+    top: 146px;
+    display: none;
+}
+/*点击*/
+#cclick{
+    position: absolute;
+    left: 850px;
+    top: 320px;
+
+}
+#pclick{
+    osition: absolute;
+    left: 24px;
+    top: 151px;
+    display: none;
+}
+/*箭头*/
+#cjt{
+    position: absolute;
+    left: 1300px;
+    top: 350px;
+
+}
+#pjt{
+    osition: absolute;
+    left: 231px;
+    top: 154px;
+    display: none;
+}
+/*白色刷痕*/
+#cwhite{
+    position: absolute;
+    left: 90px;
+    top: 20px;
+
+}
+#pwhite{
+    osition: absolute;
+    left: 13px;
+    top: 41px;
+    display: none;
+}
+/*标题*/
+#ctitle{
+    position: absolute;
+    left: 100px;
+    top: 60px;
+
+}
+#ptitle{
+    osition: absolute;
+    left: 23px;
+    top: 42px;
+    display: none;
+}
+/*人像*/
+#cpeople{
+    position: absolute;
+    left: 60px;
+    top: 302px;
+
+}
+#ppeople{
+    osition: absolute;
+    left: 19px;
+    top: 385px;
+    display: none;
+}
+/*叔字*/
+#shu{
+    position: absolute;
+    left: 290px;
+    top: 550px;}
