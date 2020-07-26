@@ -5,6 +5,9 @@ body{
     background-repeat:no-repeat;
     background-position: center;
 }
+html,body{
+  height: 100%;
+}
 /*知乎*/
 #czh {
     position: absolute;
